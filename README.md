@@ -8,6 +8,12 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![GitHub](https://user-images.githubusercontent.com/13647384/162662962-82e3c1eb-baf8-4e21-ad26-d4c4e3c31e44.svg)](https://github.com/AndroidPoet)
 
+<div style="display: inline-block; padding: 12px; background: #1c1c1e; border-radius: 36px; box-shadow: 0 25px 50px -12px rgba(0,0,0,0.5);">
+  <div style="width: 240px; height: 520px; background: #000; border-radius: 28px; overflow: hidden; position: relative;">
+    <img src="https://github.com/user-attachments/assets/0075a179-5c13-4f1c-8357-69b6b41bab9a" width="240" style="border-radius: 28px;"/>
+  </div>
+</div>
+
 </div>
 
 ## Features
